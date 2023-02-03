@@ -1,5 +1,5 @@
 {
-  "name": "league",
+  "name": "front_page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@g-loot/react-tournament-brackets": "^1.0.22",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.2",
+    "firebase": "^9.15.0",
+    "hamburger-react": "^2.5.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-awesome-slider": "^4.1.0",
+    "react-countdown-circle-timer": "^3.1.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-player": "^2.11.0",
+    "react-router-dom": "^6.6.1",
+    "react-slick": "^0.29.0",
+    "react-usa-map": "1.5.0",
+    "slick-carousel": "^1.8.1",
+    "use-memo": "^0.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
